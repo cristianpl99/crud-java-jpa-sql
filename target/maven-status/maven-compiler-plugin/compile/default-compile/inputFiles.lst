@@ -1,0 +1,12 @@
+C:\Users\crist\Documents\NetBeansProjects\crud-java-jpa-phpmyadmin-master\src\main\java\com\mycompany\automovil\igu\AltaAutomovil.java
+C:\Users\crist\Documents\NetBeansProjects\crud-java-jpa-phpmyadmin-master\src\main\java\com\mycompany\automovil\persistencia\controladoraPersistencia.java
+C:\Users\crist\Documents\NetBeansProjects\crud-java-jpa-phpmyadmin-master\src\main\java\com\mycompany\automovil\persistencia\exceptions\PreexistingEntityException.java
+C:\Users\crist\Documents\NetBeansProjects\crud-java-jpa-phpmyadmin-master\src\main\java\com\mycompany\automovil\logica\controladora.java
+C:\Users\crist\Documents\NetBeansProjects\crud-java-jpa-phpmyadmin-master\src\main\java\com\mycompany\automovil\Automovil.java
+C:\Users\crist\Documents\NetBeansProjects\crud-java-jpa-phpmyadmin-master\src\main\java\com\mycompany\automovil\logica\Automovil.java
+C:\Users\crist\Documents\NetBeansProjects\crud-java-jpa-phpmyadmin-master\src\main\java\com\mycompany\automovil\igu\ConsultaAutomovil.java
+C:\Users\crist\Documents\NetBeansProjects\crud-java-jpa-phpmyadmin-master\src\main\java\com\mycompany\automovil\igu\modifAuto.java
+C:\Users\crist\Documents\NetBeansProjects\crud-java-jpa-phpmyadmin-master\src\main\java\com\mycompany\automovil\persistencia\exceptions\IllegalOrphanException.java
+C:\Users\crist\Documents\NetBeansProjects\crud-java-jpa-phpmyadmin-master\src\main\java\com\mycompany\automovil\persistencia\exceptions\NonexistentEntityException.java
+C:\Users\crist\Documents\NetBeansProjects\crud-java-jpa-phpmyadmin-master\src\main\java\com\mycompany\automovil\igu\Principal.java
+C:\Users\crist\Documents\NetBeansProjects\crud-java-jpa-phpmyadmin-master\src\main\java\com\mycompany\automovil\persistencia\AutomovilJpaController.java
